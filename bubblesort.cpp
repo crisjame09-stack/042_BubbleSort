@@ -15,7 +15,7 @@ void input()
     while (true)
     {
         cout << "Enter number of elements in the array: ";   
-        cin >> n;                                            // Input from user
+        cin >> n;                                            
 
         if (n <= 20)                                         // If n is less than or equal to 20
             break;                                           // Exit the loop
@@ -82,6 +82,7 @@ int main()
     return 0;
 
 }
+
 
 
 
