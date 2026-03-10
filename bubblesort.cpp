@@ -29,8 +29,8 @@ void input()
 
     for (i = 0; i < n; i++)        
     {
-        cout << "Data element-" << (i + 1) << " : ";  // Output to screen
-        cin >> arr[i];                                // Input from user
+        cout << "Data element-" << (i + 1) << " : "; 
+        cin >> arr[i];                                
     }
 }
 
@@ -82,6 +82,7 @@ int main()
     return 0;
 
 }
+
 
 
 
