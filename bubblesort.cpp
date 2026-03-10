@@ -17,7 +17,7 @@ void input()
         cout << "Enter number of elements in the array: ";   
         cin >> n;                                            
 
-        if (n <= 20)                                         // If n is less than or equal to 20
+        if (n <= 20)                                         
             break;                                           // Exit the loop
         else
             cout << "\nArray can have a maximum of 20 elements.\n"; // Output to screen
@@ -82,6 +82,7 @@ int main()
     return 0;
 
 }
+
 
 
 
