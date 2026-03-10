@@ -5,7 +5,7 @@
 using namespace std;
 
 int arr[20];  
-int n;         // Declare global variable n to store number of elements
+int n;         
 
 void input()
 {
@@ -82,3 +82,4 @@ int main()
     return 0;
 
 }
+
