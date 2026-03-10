@@ -27,7 +27,7 @@ void input()
     cout << "Enter Array Elements" << endl;
     cout << endl;
 
-    for (i = 0; i < n; i++)        // Loop from 0 to n-1
+    for (i = 0; i < n; i++)        
     {
         cout << "Data element-" << (i + 1) << " : ";  // Output to screen
         cin >> arr[i];                                // Input from user
@@ -82,6 +82,7 @@ int main()
     return 0;
 
 }
+
 
 
 
