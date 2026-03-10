@@ -4,7 +4,7 @@
 #include <string>
 using namespace std;
 
-int arr[20];   // Declare global array variable with size 20
+int arr[20];  
 int n;         // Declare global variable n to store number of elements
 
 void input()
@@ -80,4 +80,5 @@ int main()
     display();
 
     return 0;
+
 }
