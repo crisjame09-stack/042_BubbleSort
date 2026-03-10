@@ -20,7 +20,7 @@ void input()
         if (n <= 20)                                         
             break;                                           
         else
-            cout << "\nArray can have a maximum of 20 elements.\n"; // Output to screen
+            cout << "\nArray can have a maximum of 20 elements.\n";
     }
 
     cout << endl;
@@ -82,6 +82,7 @@ int main()
     return 0;
 
 }
+
 
 
 
