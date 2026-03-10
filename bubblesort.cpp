@@ -36,7 +36,6 @@ void input()
 
 void bubbleSortArray()
 {
-    // procedure to sort array using bubble sort method
     int pass = 1;
     int j, k, temp;
 
@@ -82,6 +81,7 @@ int main()
     return 0;
 
 }
+
 
 
 
