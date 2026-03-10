@@ -9,7 +9,7 @@ int n;
 
 void input()
 {
-    // procedure for input
+    
     int i;
 
     while (true)
@@ -82,4 +82,5 @@ int main()
     return 0;
 
 }
+
 
